@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Dammy46/newsAPI/static/css/main.e5078ca9.css",
+    "main.js": "/Dammy46/newsAPI/static/js/main.c9b8c5c8.js",
+    "index.html": "/Dammy46/newsAPI/index.html",
+    "main.e5078ca9.css.map": "/Dammy46/newsAPI/static/css/main.e5078ca9.css.map",
+    "main.c9b8c5c8.js.map": "/Dammy46/newsAPI/static/js/main.c9b8c5c8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e5078ca9.css",
+    "static/js/main.c9b8c5c8.js"
+  ]
+}
